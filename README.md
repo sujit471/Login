@@ -1,6 +1,6 @@
 # test_three
 
-A new Flutter project.
+A new Flutter project  for login with validation of email and pasword null along with characeter length 
 
 ## Getting Started
 
